@@ -1,5 +1,5 @@
 - 📕 Currently Studying Computer Systems Engineering at Carleton University 
-- 👨‍💻 I'm skilled in Python, HTML, Java, JavaScript, Mistral, Terraform, YAQL, YAML, and CSS.
+- 👨‍💻 I'm skilled in Python, C, HTML, Java, JavaScript, Mistral, Terraform, YAQL, YAML, and CSS.
 - 💻 Learning C# at the moment
 - 🌐 Working on building websites for business owners
 
